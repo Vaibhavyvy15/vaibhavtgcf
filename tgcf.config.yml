@@ -1,9 +1,9 @@
 admins: []
 forwards:
-- source: https://t.me/LecturioVideos2022
+- source: -1001791381161
   dest:
-  - -1001542123472
-  offset: 150
+  - -1001687203372
+  offset: 0
   end: 0
 show_forwarded_from: false
 live:
